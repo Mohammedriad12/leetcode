@@ -1,26 +1,36 @@
-# 📘 LeetCode Solutions
+<div align="center">
+<h1>LEETCODE</h1>
+<p><em>Accelerating Algorithmic Mastery Through Practical Coding Challenges</em></p>
 
-This repository contains my personal LeetCode problem solutions. Each submission is automatically synced using the [LeetHub](https://github.com/QasimWani/LeetHub) browser extension.
+<img alt="last-commit" src="https://img.shields.io/github/last-commit/Mohammedriad12/LeetCode?style=flat&logo=git&logoColor=white&color=0080ff" />
+<img alt="repo-top-language" src="https://img.shields.io/github/languages/top/Mohammedriad12/LeetCode?style=flat&color=0080ff" />
+<img alt="repo-language-count" src="https://img.shields.io/github/languages/count/Mohammedriad12/LeetCode?style=flat&color=0080ff" />
+
+<p><em>Built with the tools and technologies:</em></p>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" />
+</div>
+
+<br>
+<hr>
+
+Here’s a similar README file for your **LeetCode** repository, modeled after the provided example:
 
 ---
 
-## 📌 Structure
+<div align="center">
+<h1>LEETCODE</h1>
+<p><em>Accelerating Algorithmic Mastery Through Practical Coding Challenges</em></p>
 
-Solutions are categorized by difficulty and language (default: C++, Python, or Java), with filenames including the problem number and title.
+<img alt="last-commit" src="https://img.shields.io/github/last-commit/Mohammedriad12/LeetCode?style=flat&logo=git&logoColor=white&color=0080ff" />
+<img alt="repo-top-language" src="https://img.shields.io/github/languages/top/Mohammedriad12/LeetCode?style=flat&color=0080ff" />
+<img alt="repo-language-count" src="https://img.shields.io/github/languages/count/Mohammedriad12/LeetCode?style=flat&color=0080ff" />
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Mohammedriad12/leetcode/tree/master/0048-rotate-image) |
-| [0728-self-dividing-numbers](https://github.com/Mohammedriad12/leetcode/tree/master/0728-self-dividing-numbers) |
-## Array
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Mohammedriad12/leetcode/tree/master/0048-rotate-image) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Mohammedriad12/leetcode/tree/master/0048-rotate-image) |
-<!---LeetCode Topics End-->
+<p><em>Built with the tools and technologies:</em></p>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" />
+</div>
+
+<br>
+<hr>
+
